@@ -9,6 +9,7 @@ body {
     padding: 16px;
 }
 
+
 header {
     text-align: center;
 }
@@ -38,6 +39,8 @@ header {
     
 }
 
+
+
 .producto {
     flex: 1 1 180px;
     background: white;
@@ -46,6 +49,10 @@ header {
     padding: 10px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     background-color: aqua;
+}
+
+.stock-bajo {
+    border: 2px solid #e74c3c; 
 }
 
 .precio {
