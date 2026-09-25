@@ -13,6 +13,8 @@ header {
     text-align: center;
 }
 
+
+
 .escaparate {
     display: flex;
     flex-direction: column;
@@ -33,6 +35,7 @@ header {
     display: flex;
     flex-wrap: wrap;
     gap: 12px;
+    
 }
 
 .producto {
